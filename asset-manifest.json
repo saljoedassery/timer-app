@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/timer-app/static/css/main.fbf7ac9b.chunk.css",
+    "main.js": "/timer-app/static/js/main.f13c4281.chunk.js",
+    "main.js.map": "/timer-app/static/js/main.f13c4281.chunk.js.map",
+    "runtime-main.js": "/timer-app/static/js/runtime-main.445d8d6a.js",
+    "runtime-main.js.map": "/timer-app/static/js/runtime-main.445d8d6a.js.map",
+    "static/css/2.1417c86a.chunk.css": "/timer-app/static/css/2.1417c86a.chunk.css",
+    "static/js/2.77be2a28.chunk.js": "/timer-app/static/js/2.77be2a28.chunk.js",
+    "static/js/2.77be2a28.chunk.js.map": "/timer-app/static/js/2.77be2a28.chunk.js.map",
+    "index.html": "/timer-app/index.html",
+    "precache-manifest.9b2bb03d453687e43bc6b165ab6b559d.js": "/timer-app/precache-manifest.9b2bb03d453687e43bc6b165ab6b559d.js",
+    "service-worker.js": "/timer-app/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/timer-app/static/css/2.1417c86a.chunk.css.map",
+    "static/css/main.fbf7ac9b.chunk.css.map": "/timer-app/static/css/main.fbf7ac9b.chunk.css.map",
+    "static/js/2.77be2a28.chunk.js.LICENSE.txt": "/timer-app/static/js/2.77be2a28.chunk.js.LICENSE.txt",
+    "static/media/alarm.svg": "/timer-app/static/media/alarm.e294ff69.svg",
+    "static/media/delete.svg": "/timer-app/static/media/delete.b17a93ee.svg",
+    "static/media/edit.svg": "/timer-app/static/media/edit.2927f8de.svg",
+    "static/media/event.svg": "/timer-app/static/media/event.d033a437.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.445d8d6a.js",
+    "static/css/2.1417c86a.chunk.css",
+    "static/js/2.77be2a28.chunk.js",
+    "static/css/main.fbf7ac9b.chunk.css",
+    "static/js/main.f13c4281.chunk.js"
+  ]
+}
