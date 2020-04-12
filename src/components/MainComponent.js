@@ -41,7 +41,8 @@ class MainComponent extends React.Component {
     if (this.state.date <= new Date().getTime()) {
       this.setState({ errorMessage: "Invalid date! Try again" });
     } else {
-      this.setState({ errorMessage: "", show: false });
+      this.setState({ errorMessage: "" });
+      this.setState({ show: false });
 
       if (!this.eventEdit) this.addNewEvent();
       else this.editCurrentEvent();
